@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile .\pdf_conveter.py
